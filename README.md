@@ -7,8 +7,11 @@ Tin giả (hay tin chưa xác thực), được định nghĩa ở đây là nh�
 1.2 Về bộ dữ liệu
 
 Tập dữ liệu này gồm 2 phần là tin thật và tin giả. Những tin chính trị được lấy từ các trang tin tức chính thống (các trang tin tức như Nhân dân, Lao Động, Chính phủ, Tuổi trẻ…) trên nhiều lĩnh vực được gán nhãn tin thật; các tin tức được nhóm gán nhãn là tin giả được thu thập từ những fanpage được cho là phản động, tuyên truyền chính trị giả mạo; một vài blog truyền bá tâm linh, kiến thức đời sống, mẹo vặt không có bằng chứng khoa học.
+
 Tin thật	307585
+
 Tin giả	252265
 
 
+![Uploading E62029D8-EC8C-4097-BFBC-8B8F52D73D7F_1_105_c.jpeg…]()
 
