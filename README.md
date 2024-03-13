@@ -13,5 +13,6 @@ Tin thật	307585
 Tin giả	252265
 
 
-![Uploading E62029D8-EC8C-4097-BFBC-8B8F52D73D7F_1_105_c.jpeg…]()
 
+
+![E62029D8-EC8C-4097-BFBC-8B8F52D73D7F_1_105_c](https://github.com/minhcspro/Fake-News-Detection-For-Vietnamese/assets/79640894/2198ba71-7fae-4631-a1df-f7ad58d95f81)
